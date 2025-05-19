@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Catalog Item-1Laptop Request for New Hire)">c09b906ec3e92a509489563ed401316a</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 06:55:26</sys_created_on>
+        <sys_id>10fc90eec3e92a509489563ed4013198</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Catalog Item-1Laptop Request for New Hire)</sys_name>
+        <sys_package display_value="Catalog Item-1 Demo" source="x_1755654_catalo_1">dc3b982ec3e92a509489563ed401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1 Demo">dc3b982ec3e92a509489563ed401311a</sys_scope>
+        <sys_update_name>sc_cat_item_category_10fc90eec3e92a509489563ed4013198</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 06:55:26</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Catalog Item-1 Demo">dc3b982ec3e92a509489563ed401311a</application>
+        <file_path/>
+        <instance_id>c577e4659399225cc4e8ddd548373cf9</instance_id>
+        <instance_name>dev341785</instance_name>
+        <name>sc_cat_item_category_10fc90eec3e92a509489563ed4013198</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Catalog Item-1Laptop Request for New Hire)">c09b906ec3e92a509489563ed401316a</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-19 06:55:26</sys_created_on><sys_id>10fc90eec3e92a509489563ed4013198</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Catalog Item-1Laptop Request for New Hire)</sys_name><sys_package display_value="Catalog Item-1 Demo" source="x_1755654_catalo_1">dc3b982ec3e92a509489563ed401311a</sys_package><sys_policy/><sys_scope display_value="Catalog Item-1 Demo">dc3b982ec3e92a509489563ed401311a</sys_scope><sys_update_name>sc_cat_item_category_10fc90eec3e92a509489563ed4013198</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-19 06:55:26</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-324170419</payload_hash>
+        <record_name>Can We Help You?.Catalog Item-1Laptop Request for New Hire)</record_name>
+        <reverted_from/>
+        <source>103b982ec3e92a509489563ed4013120</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 06:55:26</sys_created_on>
+        <sys_id>d0fc90eec3e92a509489563ed401319c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196e7536bdb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 06:55:26</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>14fc90eee6e92a50878dc97f2edb4e9b</update_guid>
+        <update_guid_history>14fc90eee6e92a50878dc97f2edb4e9b:-324170419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Catalog Item-1Laptop Request for New Hire)">e94d58eec3e92a509489563ed40131ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 06:56:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>04ba47c78e4a4b2684f9167454500324</sys_id>
+        <sys_metadata>10fc90eec3e92a509489563ed4013198</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Catalog Item-1Laptop Request for New Hire)</sys_name>
+        <sys_package display_value="Catalog Item-1 Demo" source="x_1755654_catalo_1">dc3b982ec3e92a509489563ed401311a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Catalog Item-1 Demo">dc3b982ec3e92a509489563ed401311a</sys_scope>
+        <sys_scope_delete display_value="">4e369ff3a0f442e58fc986ad064e17a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_10fc90eec3e92a509489563ed4013198</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_10fc90eec3e92a509489563ed4013198">d0fc90eec3e92a509489563ed401319c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 06:56:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
